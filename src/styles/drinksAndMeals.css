@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body { overflow-x: hidden; }
+
+.cards-drinks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 5vh;
+  margin-bottom: 7vh;
+  margin-right: 2rem;
+}
+
+.card-drinks {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid gray;
+}
+
+.card-title {
+  color: black;
+  text-align: center;
+}
+
+.buttons-categorys {
+  margin-top: 50px;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  background-color: white;
+  width: 80px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: 5px;
+  color: rgb(219, 183, 4);
+  border-color: #FCDC35;
+}
+
+.btn-text {
+  font-size: x-small;
+}
+
+.bnts-card-fav {
+  display: flex;
+  margin-top: 25px;
+}
+
+.btn-fav {
+  border: none;
+  background-color: white;
+  margin-left: 60px;
+}
+
+.card-text{
+  text-align: center;
+}

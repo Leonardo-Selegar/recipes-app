@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body { overflow-x: hidden; }
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  height: 45px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #41197f;
+  align-items: center;
+}
+
+.footer-drinks {
+  margin-left: 1.5rem;
+  background-color: #41197f;
+  width: 40px;
+}
+
+.footer-meals {
+  margin-right: 3rem;
+  background-color: #41197f;
+  width: 40px;
+}

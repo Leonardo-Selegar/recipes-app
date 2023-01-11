@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body { overflow-x: hidden; }
+
+.header {
+  top: 0;
+  width: 100vw;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #FCDC35;
+  align-items: center;
+  z-index: 1;
+}
+
+.buttons-header {
+  justify-content: end;
+}
+
+.title-header {
+  justify-content: start;
+  display: flex;
+  align-items: baseline;
+  margin-left: 20px;
+}
+
+.perfil-btn {
+  border-radius: 50%;
+  margin-right: 3rem;
+  border: none;
+  background-color: #FCDC35;
+}
+
+.serach-btn {
+  border-radius: 50%;
+  margin-right: 1rem;
+  border: none;
+  background-color: #FCDC35;
+}
+
+.search-bar {
+  width: 30rem;
+}
+
+.search-bar {
+  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.seachr-bar-content {
+  width: 500px;
+  background-color: #41197F;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius:  10px;
+  height: 150px;
+  justify-content: center;
+  color: white;
+}
+
+.input-header {
+  width: 300px;
+}
+
+.label-header {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.search-bar-inputs {
+  margin-top: 10px;
+  width: 350px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.search-text-input, .search-btn {
+  height: 50px;
+}
+
+.page-title {
+  text-align: center;
+  margin-top: 20px;
+  color: #41197f;
+}

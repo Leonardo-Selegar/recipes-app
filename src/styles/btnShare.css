@@ -1,0 +1,14 @@
+.btn-share {
+  border: none;
+  background-color: white;
+  margin-left: 60px;
+}
+
+.share-text {
+  color: #41197f;
+}
+
+.btn-fav {
+  border: none;
+  background-color: white;
+}
