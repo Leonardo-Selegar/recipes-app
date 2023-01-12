@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/recipes-app/static/css/main.5fdc4f53.css",
-    "main.js": "/recipes-app/static/js/main.d321dffb.js",
+    "main.js": "/recipes-app/static/js/main.b48b60b7.js",
     "static/media/Coração-Amarelo.png": "/recipes-app/static/media/Coração-Amarelo.ab6df87b3ec6074fa192.png",
     "static/media/mealIcon.png": "/recipes-app/static/media/mealIcon.256fef0abcb9f528cba2.png",
     "static/media/perfil.png": "/recipes-app/static/media/perfil.d860761318ceb9209b7b.png",
@@ -11,10 +11,10 @@
     "static/media/whiteHeartIcon.svg": "/recipes-app/static/media/whiteHeartIcon.6690d94e688d445712c855c7ded7389b.svg",
     "index.html": "/recipes-app/index.html",
     "main.5fdc4f53.css.map": "/recipes-app/static/css/main.5fdc4f53.css.map",
-    "main.d321dffb.js.map": "/recipes-app/static/js/main.d321dffb.js.map"
+    "main.b48b60b7.js.map": "/recipes-app/static/js/main.b48b60b7.js.map"
   },
   "entrypoints": [
     "static/css/main.5fdc4f53.css",
-    "static/js/main.d321dffb.js"
+    "static/js/main.b48b60b7.js"
   ]
 }
